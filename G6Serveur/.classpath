@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 27.0 Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/angus-activation-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/antlr4-runtime-4.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/byte-buddy-1.14.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/hibernate-core-6.4.0.CR1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/istack-commons-runtime-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jakarta.activation-api-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jakarta.inject-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jakarta.persistence-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jakarta.transaction-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jakarta.xml.bind-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jandex-3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jaxb-core-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jaxb-runtime-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/jboss-logging-3.5.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/amine/OneDrive/Bureau/jars/txw2-4.0.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
